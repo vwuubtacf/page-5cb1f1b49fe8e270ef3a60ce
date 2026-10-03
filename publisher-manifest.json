@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7096c4f4c6f6bf5340f71f28",
+  "owner": "vwuubtacf",
+  "repo": "page-5cb1f1b49fe8e270ef3a60ce",
+  "title": "NTHU",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5cb1f1b49fe8e270ef3a60ce",
+      "a": "NTHU",
+      "b": "",
+      "entity": "NTHU",
+      "brand": "NTHU",
+      "separator": "",
+      "path": "index.html",
+      "hash": "362abef383f57bce57331d7ea38ba6b12e4a6e5e57a83401b4d349f5dce94ad1",
+      "content": {
+        "keyword1": "NTHU",
+        "keyword2": "",
+        "primary_entity": "NTHU",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "NTHU 是面向跨境办公、学习与流媒体场景的网络加速服务官网，提供机场订阅、多端客户端下载与清晰配置流程，帮助用户稳定接入高速节点。",
+          "AI_DESCRIPTION": "NTHU 是面向跨境办公、学习与流媒体场景的网络加速服务官网，提供机场订阅、多端客户端下载与清晰配置流程，帮助用户稳定接入高速节点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html{font-size:16px;-webkit-text-size-adjust:100%}body{margin:0;background:#071422;color:#e7f3f6;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.75;overflow-x:hidden;word-wrap:break-word}a{color:#2ee6d6;text-decoration:none}a:focus{outline:2px solid #2ee6d6;outline-offset:2px}header,footer,.band{border-color:#184656}header{border-bottom:1px solid #184656;padding:14px 0}nav{display:flex;flex-wrap:wrap;gap:10px 16px;font-size:0.95rem}.wrap{max-width:960px;margin:0 auto;padding:0 16px}main{display:block}.hero{padding:64px 0 56px}h1{margin:0 0 18px;color:#fff;font-size:2.05rem;line-height:1.25;letter-spacing:0.02em;font-weight:700}h2{margin:48px 0 14px;color:#2ee6d6;font-size:1.4rem;line-height:1.35}h3{margin:22px 0 8px;color:#9be7e0;font-size:1.08rem}.lead{font-size:1.06rem;color:#cfe8ee;max-width:40em}.muted{color:#9fb8c0}section{padding:8px 0 12px}.card,.plan,details,.panel{background:#0c2433;border:1px solid #1a5c6e;border-radius:10px}.grid{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 260px;min-width:0;padding:18px 18px 16px}.plan.featured{border-color:#2ee6d6;box-shadow:0 0 0 1px #2ee6d6 inset}.tag{display:inline-block;background:#123b48;color:#2ee6d6;font-size:0.78rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{color:#2ee6d6;font-size:1.45rem;font-weight:700;margin:6px 0}.subprice{color:#9fb8c0;font-size:0.92rem;margin-bottom:10px}.plan ul{margin:0;padding-left:1.15em}.steps{counter-reset:step;list-style:none;padding:0;margin:0}.steps li{position:relative;padding:14px 14px 14px 58px;margin:0 0 10px;background:#0c2433;border:1px solid #1a5c6e;border-radius:10px}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:14px;top:14px;width:32px;height:32px;border-radius:50%;background:#123b48;color:#2ee6d6;display:flex;align-items:center;justify-content:center;font-weight:700}.panel{padding:16px 18px;margin:0 0 12px}details{padding:4px 14px 10px;margin:0 0 8px}summary{padding:10px 0;font-weight:600;color:#fff}details p{margin:0 0 8px;color:#cfe8ee}.chips{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 0}.chips span{border:1px solid #1a5c6e;color:#cfe8ee;border-radius:6px;padding:6px 10px;font-size:0.92rem}.ads,.friends{display:flex;flex-wrap:wrap;gap:8px 14px}.ads a,.friends a{background:#0c2433;border:1px solid #1a5c6e;border-radius:6px;padding:8px 12px;color:#cfe8ee}footer{border-top:1px solid #184656;margin-top:36px;padding:22px 0 32px;color:#9fb8c0;font-size:0.92rem}@media (max-width:640px){h1{font-size:1.7rem;padding-top:8px}.hero{padding:40px 0 36px}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">官网导航</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>NTHU</h1><p class=\"lead\">NTHU 官方网站提供机场订阅与 VPN 网络加速服务。我们把节点筛选、订阅下发和客户端接入做成一条可按步骤完成的路径，适合需要稳定跨境访问、流媒体解锁与游戏加速的个人与小团队。</p><p class=\"muted\">本页说明套餐差异、配置流程与官方下载入口，便于你在手机或电脑上一次完成接入。</p></section><section><h2>品牌简介</h2><p>NTHU 定位为可订阅的加速器服务，而不是一次性的临时线路。用户购买套餐后获得专属订阅地址，可在主流客户端中导入，按地区与用途选择节点。线路池覆盖常规中转与 IPLC 优化通道，日常浏览、会议、资料库访问与娱乐流量可以分开使用。</p><p>服务侧重点有三：流量配额清晰、同时在线设备数可预期、配置步骤写清楚。旗舰与团队档位额外提供原生流媒体解锁、游戏向专线以及优先工单。NTHU 不把“神秘节点”当作卖点，而是把能复用的订阅、客户端和排障方法公开写在官网。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><article class=\"panel\"><h3>跨境办公与会议</h3><p>远程协作、云文档和视频会议对延迟抖动敏感。建议优先选用延迟更低的专线或邻近区域节点，并在客户端开启规则分流，让国内站点直连、跨境应用走代理。</p></article><article class=\"panel\"><h3>学习资料与学术站点</h3><p>查阅期刊、代码仓库或公开课平台时，需要长时间稳定会话。基础版即可覆盖轻量检索；若需多设备同时在线，可升级到旗舰版。</p></article><article class=\"panel\"><h3>流媒体与内容解锁</h3><p>旗舰版强调全节点原生流媒体解锁，适合需要切换地区片库的用户。播放前先在客户端选择对应地区节点，并确认 DNS 与分流规则未被系统代理覆盖。</p></article><article class=\"panel\"><h3>游戏加速</h3><p>旗舰版含 IPLC 专线游戏加速优化。对局前固定一条延迟最低的线路，避免频繁切换导致重连。手机与主机请分别占用设备配额。</p></article><article class=\"panel\"><h3>差旅漫游</h3><p>酒店或公共网络环境复杂时，用 NTHU 订阅统一出口，减少重复登录。团队版适合短期多人共用，但请勿把订阅地址发到公开群组。</p></article></div></section><section id=\"plans\"><h2>套餐与流量</h2><p>以下为官网当前可售档位。年付按 10 个月计费。流量为每月重置的极速配额，用尽后需等待下个计费周期或升级套餐。</p><div class=\"grid\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"setup\"><h2>配置流程</h2><p>NTHU 把接入拆成可核对的五步。任何一步失败，先回到对应步骤检查，而不是反复切换节点。</p><ol class=\"steps\"><li><h3>选择套餐并完成开通</h3><p>在官网选定基础版、旗舰版或团队版，确认设备数与流量是否匹配日常用量。开通成功后，账户中心会出现订阅地址与到期时间。</p></li><li><h3>复制订阅地址</h3><p>订阅地址是客户端拉取节点列表的唯一凭证。请在本机备忘录保存，不要截图发到公开频道。若怀疑泄露，立即在账户中心重置订阅。</p></li><li><h3>下载对应系统客户端</h3><p>前往<a href=\"#download\">客户端下载</a>章节，按 iOS、Android、Windows、macOS 选择兼容应用。只使用官网列出的客户端名称，避免来路不明的改装包。</p></li><li><h3>导入订阅并更新节点</h3><p>打开客户端的订阅或配置页面，粘贴地址后执行更新。看到节点列表后再选择地区。若列表为空，检查是否完整复制、系统时间是否准确。</p></li><li><h3>设置分流并连接</h3><p>推荐规则分流：国内域名直连，跨境应用走 NTHU 节点。连接后用浏览器访问目标站点验证。游戏与会议建议手动指定低延迟节点，而不是完全随机。</p></li></ol><div class=\"panel\"><h3>配置核对清单</h3><p>系统时间已同步；订阅已更新；没有同时开启系统 VPN 与客户端 Tun 模式冲突；设备在线数未超套餐；流量未耗尽。以上五项全部通过后，再判断节点本身是否需要更换。</p></div></section><section id=\"download\"><h2>客户端下载</h2><p>NTHU 提供通用订阅，可被常见加速器客户端读取。请从系统官方应用商店或开发者站点获取正版客户端，再导入本站订阅。下列名称为官网推荐类别，下载完成后回到配置流程第四步。</p><div class=\"panel\"><h3>手机端</h3><p>iOS 可使用支持订阅导入的影子类或规则类客户端；Android 可使用兼容 Clash / sing-box 配置的应用。首次导入后授予 VPN 配置权限，并允许后台刷新订阅。</p><p class=\"chips\"><span>iOS 规则客户端</span><span>Android 兼容内核</span><span>平板分屏办公</span></p></div><div class=\"panel\"><h3>桌面端</h3><p>Windows 与 macOS 建议使用可显示延迟、支持规则分流的图形客户端。导入成功后把系统代理模式设为规则而非全局，以免国内视频与网盘被不必要地绕行。</p><p class=\"chips\"><span>Windows 图形客户端</span><span>macOS 菜单栏客户端</span><span>Linux 命令行可选</span></p></div><p><a href=\"#setup\">返回配置流程</a> · <a href=\"#faq\">查看导入失败说明</a> · <a href=\"#top\">回到 NTHU 官网顶部</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>NTHU 和普通临时加速器有什么不同？</summary><p>NTHU 以可更新的机场订阅为核心：节点列表随线路维护自动变化，不必每次手工填写服务器参数。套餐按月重置流量，并明确同时在线设备数，便于个人和团队做预算。</p></details><details><summary>怎样从官网完成购买并拿到订阅？</summary><p>选定套餐后按账户中心提示开通，开通完成即可看到订阅地址。将该地址粘贴进客户端并更新，即完成 NTHU 的基础接入。年付与月付只影响结算周期，不影响导入方式。</p></details><details><summary>官方支持哪些客户端下载方式？</summary><p>手机与电脑均可使用支持订阅链接的主流加速器客户端。请从系统应用商店或客户端开发者站点下载，再回到本页配置流程导入 NTHU 订阅。官网不提供来路不明的改装安装包。</p></details><details><summary>导入订阅后连不上，应该按什么顺序排查？</summary><p>先确认系统时间准确、订阅已成功更新、流量与设备数未超限。再关闭其他系统代理避免冲突。仍失败时更换同地区其他节点，或在旗舰版工单中提交客户端名称与错误提示。</p></details><details><summary>三档套餐该如何选择？</summary><p>轻度浏览与三台设备以内选基础版。需要原生流媒体、游戏专线或五台设备同时在线选旗舰版。多人共用、需要定制路由和专属对接选团队版。流量以实际跨境用量估算，会议和 4K 播放会明显快于纯网页。</p></details><details><summary>流媒体解锁失败是否说明订阅失效？</summary><p>不一定。先切换到对应地区的解锁节点，并清除播放应用缓存。基础版仅承诺基础流媒体；完整片库切换请使用旗舰版全节点原生解锁。若同一节点网页正常而播放失败，优先调整分流规则。</p></details></section><section id=\"links\"><h2>站点地图、广告位与友链</h2><h3>站点地图</h3><p>本站主要入口：<a href=\"#intro\">品牌简介</a>、<a href=\"#scenes\">使用场景</a>、<a href=\"#plans\">套餐价格</a>、<a href=\"#setup\">配置流程</a>、<a href=\"#download\">客户端下载</a>、<a href=\"#faq\">常见问题</a>。XML 地图见 <a href=\"#\">/sitemap.xml</a>。</p><h3>广告位</h3><div class=\"ads\"><a href=\"#plans\">NTHU 旗舰版年付说明</a><a href=\"#download\">多端客户端导入指南</a><a href=\"#setup\">五步配置流程图文</a></div><h3>友情链接</h3><div class=\"friends\"><a href=\"#\">规则分流文档</a><a href=\"#\">延迟测试方法</a><a href=\"#\">设备配额说明</a><a href=\"#\">工单提交须知</a></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>NTHU 官方网站 · 机场订阅与 VPN 加速器客户端下载</p><p>内容仅描述本品牌套餐、配置与下载路径。请遵守所在地区对网络服务的使用规定，妥善保管订阅地址。</p><p><a href=\"#top\">返回顶部</a></p></div></footer>",
+          "hash": "3b404cc93e06bedae130bde5f51e47a69ea4c76209867b27762e31513fc83972",
+          "seo": {
+            "title": "NTHU 官网 | VPN 加速器、机场订阅与客户端下载",
+            "keywords": "NTHU,NTHU官网,NTHU机场,NTHU VPN,机场订阅,VPN加速器,梯子网络加速,客户端下载,官方下载",
+            "description": "NTHU 是面向跨境办公、学习与流媒体场景的网络加速服务官网，提供机场订阅、多端客户端下载与清晰配置流程，帮助用户稳定接入高速节点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nprgukf.cn",
+    "host": "p-6104c5155c.nprgukf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "2oamc0.cn",
+      "url": "https://2oamc0.cn/",
+      "label": "NTHU",
+      "apex": "2oamc0.cn",
+      "kind": null,
+      "identity": "huyrg2721/page-4273e6524f4fdd4d9d11a257"
+    },
+    {
+      "host": "2wvkwd.cn",
+      "url": "https://2wvkwd.cn/",
+      "label": "NTHU",
+      "apex": "2wvkwd.cn",
+      "kind": null,
+      "identity": "ghc336199/page-d73c09dd0701ac3a94644960"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b86b62507b85851344ff7999665223a692c836de767ce72097b21812c580b5c5",
+    "sitemap.xml": "280084619343e3191da77b2649c01f9acb303be482a83a204d7540408bc47aa0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84b20a666c4cf9e724b55975585deec8e29f0823c1ed474ae5bf5947becfe147",
+    "robots.txt": "a87ee35e7323ac60234b17b26637a86cf7957db322382cbdb946c822dc372b37",
+    "f424a1d34f990f6dc81d290d4df10b72.txt": "502d5e5a4d1282a573d984bcaed0b1bc0b9b117cb27f0d3e8af0f20ee89c759e"
+  },
+  "revision": "b62e7b2fe51c698c60d6a8880855dbe913a323c8e7f8cd03ad8971e6f1c55838"
+}
